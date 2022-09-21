@@ -1,7 +1,7 @@
 - 👋 Sup, I’m @saaszone
 - 👀 I am trying to codify
 - 🌱 I’m currently learning Codes
-- 💞️ I don't ave a crush
+- 💞️ I don't have a crush
 - 📫 Idk what to do when i finish this
 
 <!---
